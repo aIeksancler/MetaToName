@@ -1,0 +1,2 @@
+pyinstaller --clean --paths C:\Users\Aleksander\ExifToFileName\Lib\site-packages ExifToFileName.py
+pause

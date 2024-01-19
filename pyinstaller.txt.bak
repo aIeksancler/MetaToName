@@ -1,0 +1,1 @@
+pyinstaller ExifToName.py --clean --onefile --hiddenimport win32timezone -F
